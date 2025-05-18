@@ -1,0 +1,20 @@
+# Core Packages
+fastapi==0.115.12
+uvicorn==0.34.0
+python-multipart==0.0.20
+
+# Computer Vision
+opencv-python-headless==4.11.0.86
+numpy==2.0.2
+pillow==11.1.0
+
+# Machine Learning
+torch==2.6.0
+torchvision==0.21.0
+ultralytics==8.3.100
+
+# Utilities
+pydantic==2.11.1
+requests==2.32.3
+tqdm==4.67.1
+psutil==7.0.0
