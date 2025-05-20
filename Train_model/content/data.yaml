@@ -1,0 +1,12 @@
+path: content/data
+train: train/images
+val: validation/images
+nc: 7
+names:
+- albatal_dubbi_corn_snack
+- albatal_popcorn_butter_flavor
+- cric_crac_special_flavour
+- cric_crac_tomato_ketchup
+- marami_hot_chili
+- marami_salt_&_vinegar
+- tasali_hot_chili
